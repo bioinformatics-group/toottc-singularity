@@ -18,7 +18,7 @@ MirrorURL: http://ftp.ca.debian.org/debian/
     apt-get -qqq upgrade
 
     pip3 install biopython
-
+    pip3 install sklearn
 
     
     ln -fs /usr/share/zoneinfo/America/New_York /etc/localtime
